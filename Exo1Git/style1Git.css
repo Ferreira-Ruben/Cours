@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    background-color: cadetblue;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: brown;
+    color: aliceblue;
+    justify-content: space-between;
+}
+
+body{
+    text-align: center;
+}
